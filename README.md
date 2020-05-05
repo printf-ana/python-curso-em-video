@@ -1,5 +1,3 @@
-# Python
-Exercícios de Python referente ao Mundo 1 do Curso em Vídeo, do Gustavo Guanabara.
 ex001: Crie um programa que escreva “Olá, Mundo” na tela 
 ex002: Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas
 ex003: Crie um programa que leia dois números e mostre a soma entre eles 
